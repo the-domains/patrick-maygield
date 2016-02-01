@@ -1,0 +1,28 @@
+name: Patrick Maygield
+favicon: null
+layout_spectrum: 0.8508453031536192
+typography_spectrum: 0.25464885914698243
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.24968398013152182
+  lightness: 0.46570309321396053
+  saturation: 0.7735936276149005
+  rhythmicContrast: 0.9415164897218347
+purpose: []
